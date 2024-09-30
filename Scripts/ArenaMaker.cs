@@ -4,21 +4,7 @@ using UnityEngine;
 
 public class ArenaMaker : MonoBehaviour
 {
-    //public PolygonCollider2D DefaoulCol;
-    //public EdgeCollider2D EdgeCol;
 
-    
-    //// Start is called before the first frame update
-    //void Awake()
-    //{
-    //    Vector2[] points = DefaoulCol.points;
-    //    EdgeCol.points = points;
-    //    Destroy(DefaoulCol);
-    //}
+//Test-Test
 
-    //// Update is called once per frame
-    //void Update()
-    //{
-        
-    //}
 }
